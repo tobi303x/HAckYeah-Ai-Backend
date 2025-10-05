@@ -27,3 +27,11 @@ Rate Limiting	Flask-Limiter
 Environment Management	python-dotenv
 Reverse Geocoding	OpenStreetMap (Nominatim API)
 Hosting	Any cloud/VM (DigitalOcean, GCP, etc.)
+
+
+GCP Cloud Run Flask Api Implementation
+<img width="2544" height="1163" alt="image" src="https://github.com/user-attachments/assets/00a5272f-e6be-42f4-b92e-d244c0103941" />
+
+AWS Cloud Formation CHroma DB instance
+<img width="2558" height="940" alt="image" src="https://github.com/user-attachments/assets/3ea7c584-94d9-47e8-b1be-e5bc4b4aada3" />
+
