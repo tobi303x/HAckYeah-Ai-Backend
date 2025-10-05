@@ -1,0 +1,405 @@
+{
+    "total": 231,
+    "list": [
+        {
+            "organization": {
+                "province": "podlaskie",
+                "district": "powiat białostocki",
+                "commune": "obszar wiejski Wasilków",
+                "city": "Sochonie",
+                "regon": "",
+                "nip": "",
+                "krs": "0000288520",
+                "terc": "2002135",
+                "isWowParticipant": false,
+                "hasCertificate": false,
+                "id": 2704,
+                "name": "Fundacja „Pomóż Im” na rzecz Dzieci z Chorobami Nowotworowymi i Hospicjum dla Dzieci"
+            },
+            "assistanceScope": {
+                "id": 26,
+                "name": "Szpitale, rehabilitacja, ochrona zdrowia",
+                "order": 26,
+                "status": 1
+            },
+            "province": "podlaskie",
+            "description": "Wolontariusze Fundacji Pomóż Im dwa razy w tygodniu odwiedzają Klinikę Pediatrii Onkologii i Hematologii Dziecięcego Szpitala Klinicznego w Białymstoku.\n\nPomoc, którą niesiemy pacjentom i ich rodzinom polega na organizacji zabaw w oddziałowej świetlicy lub opiece nad dziećmi podczas krótkich nieobecności rodziców (np. kiedy idą do kuchni). Staramy się miło zaskakiwać naszych podopiecznych i organizujemy różne warsztaty. Robiliśmy już kule do kąpieli, odlewy gipsowe, malowaliśmy na płótnach, graliśmy w mini golfa… Może to twój pomysł będzie kolejną niespodzianką?\n\nWarunki uczestnictwa:\npełnoletniość,\nujemny wynik badania sanepidu,\nzaświadczenie o niekaralności (nie starsze niż rok),\npodpisanie porozumienia z fundacją (w celu uzyskania ubezpieczenia nnw).\n\nObecnie przychodzimy w poniedziałki i czwartki w godzinach od 18 do 20. Nie trzeba przychodzić regularnie, chociaż jest to cenne, bo dzieci przywiązują się do wolontariuszy i czekają na nich. :)\n\nWarto przychodzić nieco przed 18, bo wymagana jest zmiana obuwia i założenie koszulki z logo Fundacji (można ją dostać na miejscu, w szpitalu). Następnie dezynfekujemy dłonie i idziemy podpisać listę obecności u pielęgniarek. Wtedy możemy już przywitać się z pacjentami i zaprosić ich do wspólnej zabawy w świetlicy. :)\n\nNiewolono przychodzić przechodząc infekcję, np. z kaszlem, bólem gardła!",
+            "status": {
+                "active": true,
+                "new": true
+            },
+            "district": "miasto na prawach powiatu Białystok",
+            "commune": "gmina miejska Białystok",
+            "city": "Białystok",
+            "startDate": "2025-10-06T00:00:00Z",
+            "endDate": "2025-12-31T00:00:00Z",
+            "createdDate": "2025-10-04T18:19:04Z"
+        },
+        {
+            "organization": {
+                "province": "lubuskie",
+                "district": "miasto na prawach powiatu Zielona Góra",
+                "commune": "gmina miejska Zielona Góra",
+                "city": "Zielona Góra",
+                "regon": "978100193",
+                "nip": "9291727199",
+                "krs": "0000213078",
+                "terc": "0862011",
+                "isWowParticipant": false,
+                "hasCertificate": false,
+                "id": 2300,
+                "name": "\"INICJATYWA DLA ZWIERZĄT\""
+            },
+            "assistanceScope": {
+                "id": 16,
+                "name": "Pomoc zwierzętom",
+                "order": 16,
+                "status": 1
+            },
+            "province": "dolnośląskie",
+            "description": "Praca polega na wyprowadzaniu piesków na spacery lub na spędzaniu czasu z kotami w kociarni.",
+            "status": {
+                "active": true,
+                "new": true
+            },
+            "district": "powiat zgorzelecki",
+            "commune": "obszar wiejski Pieńsk",
+            "city": "Dłużyna Górna",
+            "startDate": "2025-10-04T00:00:00Z",
+            "endDate": "2026-01-03T00:00:00Z",
+            "createdDate": "2025-10-03T19:11:26Z"
+        },
+        {
+            "organization": {
+                "province": "małopolskie",
+                "district": "miasto na prawach powiatu Kraków",
+                "commune": "gmina miejska Kraków",
+                "city": "Kraków",
+                "regon": "525810474",
+                "nip": "9452276892",
+                "krs": "",
+                "terc": "1261011",
+                "isWowParticipant": false,
+                "hasCertificate": false,
+                "id": 2719,
+                "name": "Blisko Nauki"
+            },
+            "assistanceScope": {
+                "id": 6,
+                "name": "E-wolontariat",
+                "order": 6,
+                "status": 1
+            },
+            "description": "Współpraca dotyczy rozwój Blisko Nauki. Jeśli jesteś zainteresowany(-a) współdziałaniem z nami, to serdecznie zapraszamy!",
+            "status": {
+                "active": true,
+                "new": true
+            },
+            "startDate": "2025-10-03T00:00:00Z",
+            "endDate": "2025-12-31T00:00:00Z",
+            "createdDate": "2025-10-03T11:37:51Z"
+        },
+        {
+            "organization": {
+                "province": "warmińsko-mazurskie",
+                "district": "powiat ostródzki",
+                "commune": "gmina miejska Ostróda",
+                "city": "Ostróda",
+                "regon": "",
+                "nip": "7412125074",
+                "krs": "0000433344",
+                "terc": "2815011",
+                "isWowParticipant": false,
+                "hasCertificate": false,
+                "id": 623,
+                "name": "Stowarzyszenie Inicjatyw Możliwych Rzeczjasna"
+            },
+            "assistanceScope": {
+                "id": 13,
+                "name": "Pisanie, redagowanie tekstów, ulotek, biuletynów",
+                "order": 13,
+                "status": 1
+            },
+            "province": "warmińsko-mazurskie",
+            "description": "Od 2023 roku prowadzimy w Ostródzie grupę młodych wolontariuszy angażujących się w tworzenie własnych treści medialnych, rozpoczęliśmy z nimi realizację projektu: Młodzieżowa Redakcja – Przestrzeń dla Głosu Młodych w Życiu Publicznym w ramach Funduszu Młodzieżowego. Grupa, z którą już podjęliśmy współpracę liczy około 20 zaangażowanych uczestników, z ostródzkich szkół średnich, którzy już od roku współpracują w sposób nieregularny i wolontaryjny nad różnymi materiałami filmowymi.\n\nOd 2025 roku kontynuujemy współpracę z młodymi wolontariuszami w projekcie “Młodzi, media, odpowiedzialność – wolontariat medialny dla społecznej zmiany” sfinansowanym w ramach „Korpusu Solidarności – Rządowego Programu Wspierania i Rozwoju Wolontariatu Systematycznego na lata 2018–2030”.\nJak pracujemy?\n-spotykamy się regularnie: 2–4 razy w miesiącu\n-działamy z zaufaniem i indywidualnym podejściem\n-wspólnie planujemy tematy i działania\n-uczymy się konkretnych rzeczy: pisania, nagrywania, montażu, zadawania pytań\nCo robimy?\n-publikujemy artykuły, wideo i podcasty w naszym magazynie internetowym\n-jeździmy na warsztaty i wizyty studyjne\n-pracujemy zespołowo i uczymy się od siebie\n- uczestniczymy w cyklicznych działaniach, budujemy własne ścieżki rozwoju, oferujemy wsparcie mentorskie i udział w działaniach publicznych.\nWszystkie treści stworzone przez Redakcję Młodzieżową są dostępne na naszym Magazynie RzeczJasna, w zakładce “Młodzieżowa Redakcja” www.rzeczjasna.ostroda.pl\nKogo szukamy?\nMłodych wolontariuszy i wolontariuszek (16–26 lat) z różnych części województwa warmińsko-mazurskiego.",
+            "status": {
+                "active": true,
+                "new": true
+            },
+            "district": "powiat ostródzki",
+            "startDate": "2025-10-03T00:00:00Z",
+            "endDate": "2025-12-03T00:00:00Z",
+            "createdDate": "2025-10-03T11:34:49Z"
+        },
+        {
+            "organization": {
+                "province": "podlaskie",
+                "district": "miasto na prawach powiatu Suwałki",
+                "commune": "gmina miejska Suwałki",
+                "city": "Suwałki",
+                "regon": "790123430",
+                "nip": "8441528409",
+                "krs": "0000051648",
+                "terc": "2063011",
+                "isWowParticipant": false,
+                "hasCertificate": false,
+                "id": 1042,
+                "name": "STOWARZYSZENIE LOKALNE SALEZJAŃSKIEJ ORGANIZACJI SPORTOWEJ \"SL SALOS\""
+            },
+            "assistanceScope": {
+                "id": 5,
+                "name": "Ekologia, ochrona środowiska",
+                "order": 5,
+                "status": 1
+            },
+            "province": "podlaskie",
+            "description": "Pomoc podczas akcji sprzątania terenu Ośrodka w Szelmencie.",
+            "status": {
+                "active": true,
+                "new": true
+            },
+            "district": "miasto na prawach powiatu Suwałki",
+            "commune": "gmina miejska Suwałki",
+            "city": "Suwałki",
+            "startDate": "2025-10-04T00:00:00Z",
+            "endDate": "2025-12-01T00:00:00Z",
+            "createdDate": "2025-10-03T11:22:21Z"
+        },
+        {
+            "organization": {
+                "province": "podlaskie",
+                "district": "miasto na prawach powiatu Suwałki",
+                "commune": "gmina miejska Suwałki",
+                "city": "Suwałki",
+                "regon": "790123430",
+                "nip": "8441528409",
+                "krs": "0000051648",
+                "terc": "2063011",
+                "isWowParticipant": false,
+                "hasCertificate": false,
+                "id": 1042,
+                "name": "STOWARZYSZENIE LOKALNE SALEZJAŃSKIEJ ORGANIZACJI SPORTOWEJ \"SL SALOS\""
+            },
+            "assistanceScope": {
+                "id": 2,
+                "name": "Akcje na rzecz miasta, mieszkańców i przestrzeni miejskiej (festyny, happeningi, działania obywatelskie)",
+                "order": 2,
+                "status": 1
+            },
+            "province": "podlaskie",
+            "description": "Pomoc podczas imprez organizowanych przez SL SALOS w Suwałkach.",
+            "status": {
+                "active": true,
+                "new": true
+            },
+            "district": "miasto na prawach powiatu Suwałki",
+            "commune": "gmina miejska Suwałki",
+            "city": "Suwałki",
+            "startDate": "2025-10-03T00:00:00Z",
+            "endDate": "2025-12-03T00:00:00Z",
+            "createdDate": "2025-10-03T11:18:25Z"
+        },
+        {
+            "organization": {
+                "province": "małopolskie",
+                "district": "powiat myślenicki",
+                "commune": "miasto Myślenice",
+                "city": "Myślenice",
+                "regon": "351001507",
+                "nip": "6811296612",
+                "krs": "",
+                "terc": "1209034",
+                "isWowParticipant": false,
+                "hasCertificate": false,
+                "id": 1028,
+                "name": "CENTRUM USŁUG SPOŁECZNYCH  W MYŚLENICACH"
+            },
+            "assistanceScope": {
+                "id": 2,
+                "name": "Akcje na rzecz miasta, mieszkańców i przestrzeni miejskiej (festyny, happeningi, działania obywatelskie)",
+                "order": 2,
+                "status": 1
+            },
+            "province": "małopolskie",
+            "description": "Poszukujemy osoby, która będzie kierowała osoby zaproszone na szkolenie dla Liderów społeczności lokalnej. Wydarzenie odbywa się w Dziennym Domu Senior + w Myślenicach.",
+            "status": {
+                "active": true,
+                "new": true
+            },
+            "district": "powiat myślenicki",
+            "commune": "miasto Myślenice",
+            "city": "Myślenice",
+            "startDate": "2025-10-21T00:00:00Z",
+            "endDate": "2025-10-21T00:00:00Z",
+            "createdDate": "2025-10-03T08:52:36Z"
+        },
+        {
+            "organization": {
+                "province": "podkarpackie",
+                "district": "miasto na prawach powiatu Krosno",
+                "commune": "gmina miejska Krosno",
+                "city": "Krosno",
+                "regon": "521248640",
+                "nip": "6842664301",
+                "krs": "0000954496",
+                "terc": "1861011",
+                "gpsLat": 49.6947887,
+                "gpsLng": 21.7644317,
+                "isWowParticipant": false,
+                "hasCertificate": false,
+                "id": 730,
+                "name": "Fundacja GraTy"
+            },
+            "assistanceScope": {
+                "id": 2,
+                "name": "Akcje na rzecz miasta, mieszkańców i przestrzeni miejskiej (festyny, happeningi, działania obywatelskie)",
+                "order": 2,
+                "status": 1
+            },
+            "province": "podkarpackie",
+            "description": "Poszukujemy realizatorów inicjatyw społecznych, do prowadzonych konsultacji, animacji czasu wolnego dla dzieci z przestrzeni rewitalizowanych, twórców oddolnych wydarzeń kulturalnych, artystycznych i związanych z grywalizacją. Działania będą prowadzone lokalnie w Krośnie,w regionie a także wyjazdowe, w kraju i za granicą.",
+            "status": {
+                "active": true,
+                "new": true
+            },
+            "district": "miasto na prawach powiatu Krosno",
+            "commune": "gmina miejska Krosno",
+            "city": "Krosno",
+            "startDate": "2025-10-04T00:00:00Z",
+            "endDate": "2025-12-31T00:00:00Z",
+            "createdDate": "2025-10-03T05:51:40Z"
+        },
+        {
+            "organization": {
+                "province": "opolskie",
+                "district": "miasto na prawach powiatu Opole",
+                "commune": "gmina miejska Opole",
+                "city": "Opole",
+                "regon": "531915079",
+                "nip": "7542677352",
+                "krs": "0000025002",
+                "terc": "1661011",
+                "isWowParticipant": false,
+                "hasCertificate": false,
+                "id": 51,
+                "name": "Stowarzyszenie Hospicjum Opolskie"
+            },
+            "assistanceScope": {
+                "id": 8,
+                "name": "Hospicja",
+                "order": 8,
+                "status": 1
+            },
+            "province": "opolskie",
+            "description": "Nasz wolontariat to możliwość spotkania z drugim człowiekiem, pomoc i wsparcie, zdobycie nowych\ndoświadczeń, rozwijanie kompetencji społecznych poszukiwanych tak dziś na rynku pracy. Zanim\nspotkamy się z osobą chorą… Wolontariat na rzecz osoby chorej jest jednym z najtrudniejszych\nwyzwań przed którym stajemy. Wspieranie takiej osoby wymaga m.in. umiejętności rozmowy\nponieważ pacjent może zadawać pytania o senes życia, nie potrafi czasem pogodzić się z sytuacją.\nDlatego zanim przystąpisz do wolontariatu czeka Cię rozmowa z koordynatorem wolontariatu i\nnaszym psychologiem, poznasz personel medyczny, któremu będziesz mógł/mogła zadać pytania\ndotyczące opieki paliatywnej. Zobaczysz jak funkcjonuje oddział hospicyjny, odbędziesz\ntrzymiesięczny okres próbny. Oto kilka sposobów, jak można realizować u nas wolontariat: Ogród –\nzielona terapia: Pielęgnacja ogrodu: Skoszenie trawy, podlanie kwiatów. Chodzi o tworzenie\nspokojnej i przyjemnej przestrzeni na zewnątrz. Relaks na świeżym powietrzu: Ustawienie ławek w\nzacienionych miejscach, by pacjenci mogli cieszyć się otoczeniem. Muzyka – nuty ukojenia: Krótki\nkoncert: Zagranie na pianinie lub innym instrumencie ulubionych melodii. Muzyka potrafi zdziałać\ncuda dla nastroju. Wspólne śpiewanie: Jeśli pacjenci mają ochotę, zachęć ich do wspólnego\nśpiewania. Kulinarne przyjemności – smaki domu: „Zachcianki” kulinarne: poprzez przyniesienie\ndomowych przysmaków ( po uzgodnieniu z personelem medycznym).. Małe przyjemności potrafią\nrozjaśnić dzień. Codzienna pomoc – wsparcie i odciążenie: Drobne prace: Pomoc w sortowaniu\ndokumentów, porządkowanie przestrzeni. To odciąża personel i tworzy lepsze otoczenie.\nWolontariusze są częścią zespołu. U nas mamy wolontariat długoterminowy i akcyjny. Wolontariat\nstanowi uzupełnienie zaangażowania pracowników. Wolontariat jest obszarem, o który dbamy i\nstaramy się go rozwijać i profesjonalizować.",
+            "status": {
+                "active": true,
+                "new": true
+            },
+            "district": "miasto na prawach powiatu Opole",
+            "commune": "gmina miejska Opole",
+            "city": "Opole",
+            "startDate": "2025-10-03T00:00:00Z",
+            "endDate": "2025-12-31T00:00:00Z",
+            "createdDate": "2025-10-02T13:20:26Z"
+        },
+        {
+            "organization": {
+                "province": "dolnośląskie",
+                "district": "miasto na prawach powiatu Wrocław",
+                "commune": "gmina miejska Wrocław",
+                "city": "Wrocław",
+                "regon": "020545400",
+                "nip": "8982115162",
+                "krs": "0000281794",
+                "terc": "0264011",
+                "isWowParticipant": true,
+                "hasCertificate": true,
+                "id": 1900,
+                "name": "FUNDACJA WSPIERANIA ORGANIZACJI POZARZĄDOWYCH \"UMBRELLA\""
+            },
+            "assistanceScope": {
+                "id": 18,
+                "name": "Praca z seniorami",
+                "order": 18,
+                "status": 1
+            },
+            "province": "dolnośląskie",
+            "description": "Wolontariat polega na realizacji indywidualnych konsultacji cyfrowych z seniorami i seniorkami (dyżury raz w tygodniu lub raz na dwa tygodnie), które mają na celu wsparcie ich w bieżących problemach, dotyczących podstawowej obsługi smartfona, czy komputera: korzystania z aplikacji, GPS, mediów społecznościowych, poczty internetowej, podstawowych programów np. do zdjęć, podstawowych funkcjonalności, etc.\n\nZadania:\n- przygotowanie spotkań,\n- przeprowadzenie konsultacji w zakresie nowych technologii/narzędzi cyfrowych - poziom podstawowy, praktyczny, związany z podstawową obsługą telefonu czy komputera, \n- dyspozycyjność: min. 2 razy w miesiącu w Centrum Sektor 3 (ul. Legnicka 65).\n\nPoza tym: kultura osobista, przyjazne doświadczenie, otwartość na innych! Ale to oczywiste ;-)",
+            "status": {
+                "active": true,
+                "new": true
+            },
+            "district": "miasto na prawach powiatu Wrocław",
+            "commune": "gmina miejska Wrocław",
+            "city": "Wrocław",
+            "startDate": "2025-10-02T00:00:00Z",
+            "endDate": "2026-01-01T00:00:00Z",
+            "createdDate": "2025-10-02T11:24:22Z"
+        },
+        {
+            "organization": {
+                "province": "mazowieckie",
+                "district": "miasto stołeczne, na prawach powiatu Warszawa",
+                "commune": "gmina miejska, miasto stołeczne Warszawa",
+                "city": "Warszawa",
+                "regon": "",
+                "nip": "6751544169",
+                "krs": "0000615583",
+                "terc": "1465011",
+                "isWowParticipant": false,
+                "hasCertificate": false,
+                "id": 865,
+                "name": "Stowarzyszenie Demagog"
+            },
+            "assistanceScope": {
+                "id": 6,
+                "name": "E-wolontariat",
+                "order": 6,
+                "status": 1
+            },
+            "description": "Stowarzyszenie Demagog od ponad 10 lat działa na rzecz przeciwdziałania dezinformacji i wspierania rzetelnej debaty publicznej. Nasz wolontariat to przestrzeń dla osób, które chcą aktywnie angażować się w obronę prawdy i wspierać społeczeństwo w dostępie do sprawdzonych informacji.\n\nWolontariuszki i wolontariusze mogą dołączyć do jednego z obszarów działań:\n ✔️ fact-checking: monitoring debaty publicznej, weryfikacja wypowiedzi polityków, przygotowywanie analiz,\n ✔️ OSINT: wyszukiwanie i analiza informacji z otwartych źródeł przy użyciu narzędzi do weryfikacji,\n ✔️ przeciwdziałanie dezinformacji: śledzenie trendów i narracji dezinformacyjnych, tworzenie treści obalających fałszywe informacje,\n ✔️ cyberbezpieczeństwo (IT): rozwijanie narzędzi technologicznych i dbanie o bezpieczeństwo cyfrowe,\n ✔️ edukacja: współtworzenie materiałów edukacyjnych, scenariuszy zajęć, prowadzenie warsztatów.\n\n\uD83D\uDDE3️ Zakres zadań ustalany jest indywidualnie we współpracy z koordynatorką wolontariatu tak, aby odpowiadał Twoim zainteresowaniom i planom rozwoju. Działania odbywają się zdalnie, w elastycznym wymiarze godzinowym, co pozwala łączyć wolontariat z nauką lub pracą.",
+            "status": {
+                "active": true,
+                "new": true
+            },
+            "startDate": "2025-10-02T00:00:00Z",
+            "endDate": "2025-12-31T00:00:00Z",
+            "createdDate": "2025-10-02T11:18:05Z"
+        },
+        {
+            "organization": {
+                "province": "dolnośląskie",
+                "district": "miasto na prawach powiatu Wrocław",
+                "commune": "gmina miejska Wrocław",
+                "city": "Wrocław",
+                "regon": "020545400",
+                "nip": "8982115162",
+                "krs": "0000281794",
+                "terc": "0264011",
+                "isWowParticipant": true,
+                "hasCertificate": true,
+                "id": 1900,
+                "name": "FUNDACJA WSPIERANIA ORGANIZACJI POZARZĄDOWYCH \"UMBRELLA\""
+            },
+            "assistanceScope": {
+                "id": 49,
+                "name": "Uchodźcy - POMOC UKRAINIE",
+                "order": 1,
+                "status": 1
+            },
+            "province": "dolnośląskie",
+            "description": "Wolontariat polega na udziale w spotkaniach z osobami z Ukrainy i rozmowie z nimi w języku polskim., w tzw. Kawiarence Językowej . Osoby z Ukrainy chcą poprawić swoje umiejętności posługiwania się j. polskim w praktyce, poprzez konwersacje, które dotyczą spraw codziennych: praca, rodzina, czas wolny, zainteresowania.\n\nZadania:\n- pomoc w przygotowaniu spotkań,\n- przygotowanie kilku kreatywnych tematów do rozmów,\n- sprawdzanie listy obecności,\n- udział w spotkaniach (rozmowy w języku polskim z osobami z Ukrainy) - we wtorki w godzinach 18.00-19.30 , w Centrum Sektor 3 (ul. Legnicka 65).\n\nPoza tym: kultura osobista, przyjazne doświadczenie, otwartość na innych! Ale to oczywiste ;-)",
+            "status": {
+                "active": true,
+                "new": true
+            },
+            "district": "miasto na prawach powiatu Wrocław",
+            "commune": "gmina miejska Wrocław",
+            "city": "Wrocław",
+            "startDate": "2025-10-02T00:00:00Z",
+            "endDate": "2026-01-01T00:00:00Z",
+            "createdDate": "2025-10-02T10:47:37Z"
+        }
+    ]
+}
